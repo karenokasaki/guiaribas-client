@@ -1,4 +1,5 @@
-import {AuthContextComponent} from '../contexts/authContext';
+import { AuthContextComponent } from '../contexts/authContext';
+import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (
